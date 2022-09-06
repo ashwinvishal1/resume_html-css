@@ -1,0 +1,39 @@
+.name_division{
+	position: absolute;
+	left: 275px;
+	
+}
+.profile{
+	border-radius: 50%;
+}
+
+/* .hrule{
+	width: 225px;
+	margin-left: 0px;
+} */
+
+.get_in_touch{
+	font-family: 'Beau Rivage', cursive;
+}
+.get_in_details{
+	 margin: 0px;
+}
+.left_cont{
+	display: inline-block;
+	float: left;
+}
+.names{
+	font-family: 'Beau Rivage', cursive;
+	font-family: 'Quicksand', sans-serif;
+	color: DodgerBlue;
+}
+.texts{
+	font-family: 'Amatic SC', cursive;
+	font-family: 'Beau Rivage', cursive;
+	font-family: 'Quicksand', sans-serif;
+}
+.hrule2{
+	max-width: 1060px;
+	width:1060px;
+	margin-left: 0px;
+}
